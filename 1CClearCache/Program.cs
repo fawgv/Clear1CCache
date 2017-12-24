@@ -10,6 +10,7 @@ namespace _1CClearCache
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
