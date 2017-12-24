@@ -11,6 +11,9 @@ namespace _1CClearCache
         static void Main(string[] args)
         {
 
+            CopyMethods copyMethods = new CopyMethods();
+            copyMethods.KillRemoteProcess("1cv8*");
+            copyMethods.Delete1CCache();
         }
     }
 }
